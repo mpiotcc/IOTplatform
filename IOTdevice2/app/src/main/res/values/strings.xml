@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">IOTdevice</string>
+    <string name="title_activity_device_setup">DeviceSetupActivity</string>
+</resources>
